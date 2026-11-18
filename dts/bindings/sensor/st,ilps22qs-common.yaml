@@ -73,7 +73,7 @@ properties:
 
 examples:
   - |
-    #include <zephyr/dt-bindings/sensor/ilps22qs.h>
+    #include <zephyr/dt-bindings/sensor/lps2xdf.h>
 
     ilps22qs@5d {
       /* ... */
